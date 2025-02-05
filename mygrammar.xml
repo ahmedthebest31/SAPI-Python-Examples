@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRAMMAR LANGID="409">
+  <RULE TOPLEVEL="ACTIVE" id="rule1">
+    <L>
+      <P>hello</P>
+      <P>goodbye</P>
+      <P>open browser</P>
+    </L>
+  </RULE>
+</GRAMMAR>
