@@ -1,6 +1,6 @@
 # SAPI-Python-Examples
 
-This repository contains Python code examples for using the Microsoft Speech API (SAPI) on Windows.  It's a companion to my YouTube video [link to your YouTube video here] where I explain the differences between SAPI 4 and SAPI 5, and how to use SAPI for text-to-speech (TTS) and speech recognition (SR) in Python.
+This repository contains Python code examples for using the Microsoft Speech API (SAPI) on Windows.  It's a companion to my YouTube video [https://www.youtube.com/watch?v=mxn4PD752_Q] where I explain the differences between SAPI 4 and SAPI 5, and how to use SAPI for text-to-speech (TTS) and speech recognition (SR) in Python.
 
 ## What is SAPI?
 
@@ -35,7 +35,9 @@ Contributions are welcome!  Feel free to submit pull requests or open issues.
 
 ## License
 
+mit License
+
 
 ## YouTube Video
 
-[Link to my YouTube video again]
+[[https://www.youtube.com/watch?v=mxn4PD752_Q](https://www.youtube.com/watch?v=mxn4PD752_Q)]
